@@ -42,7 +42,7 @@ class FirstViewController: UIViewController, UITableViewDelegate,UITableViewData
        
         let cell: UITableViewCell = UITableViewCell(style: UITableViewCellStyle.Subtitle, reuseIdentifier: "Default")
         
-        cell.textLabel.text = phoMgr.persons[indexPath.row].name
+        cell.textLabel?.text = phoMgr.persons[indexPath.row].name
         cell.detailTextLabel!.text = phoMgr.persons[indexPath.row].phone
         
         return cell
