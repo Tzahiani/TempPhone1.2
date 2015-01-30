@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>782A7ACF-F523-4D28-BAD8-F44348FE866E</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TempPhone1.2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80A44313628EBFA8283EBE1819321CB2B2943015</key>
+		<string>https://github.com/Tzahiani/TempPhone1.2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TempPhone1.2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80A44313628EBFA8283EBE1819321CB2B2943015</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Tzahiani/TempPhone1.2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80A44313628EBFA8283EBE1819321CB2B2943015</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80A44313628EBFA8283EBE1819321CB2B2943015</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TempPhone1.2</string>
+		</dict>
+	</array>
+</dict>
+</plist>
